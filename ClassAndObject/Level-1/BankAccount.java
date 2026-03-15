@@ -51,7 +51,7 @@ public class BankAccount {
     }
 
     public static void main(String[] args) {
-        BankAccount b1 = new BankAccount("Khushi", 1234, 50000);
+        BankAccount b1 = new BankAccount("Anjali", 1234, 50000);
         b1.displayDetail();
     }
 }
