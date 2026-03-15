@@ -23,8 +23,8 @@ public class Vehicle {
 
     public static void main(String[] args) {
 
-        Vehicle v1 = new Vehicle("khushi", "Car");
-        Vehicle v2 = new Vehicle("Akshara", "Bike");
+        Vehicle v1 = new Vehicle("Anjali", "Car");
+        Vehicle v2 = new Vehicle("Julie", "Bike");
 
         v1.displayVehicleDetails();
         v2.displayVehicleDetails();
