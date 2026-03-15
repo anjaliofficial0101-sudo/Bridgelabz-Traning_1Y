@@ -16,9 +16,9 @@ public class Student {
 
         PostgraduateStudent s = new PostgraduateStudent();
 
-        s.roll = 37;
-        s.name = "Khushi";
-        s.setCgpa(8.5);
+        s.roll = 15;
+        s.name = "Anjali";
+        s.setCgpa(7.1);
 
         s.show();
     }
