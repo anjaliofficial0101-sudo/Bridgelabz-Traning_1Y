@@ -13,7 +13,7 @@ public class Employee{
 		System.out.println("Salary:"+salary);
 	}
 	public static void main(String[]args){
-		Employee e1=new Employee("khushi",101,100000);
+		Employee e1=new Employee("Anjali",101,100000);
 		e1.displayDetail();
 	}
 }
