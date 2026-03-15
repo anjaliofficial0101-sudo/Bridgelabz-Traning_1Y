@@ -17,7 +17,7 @@ public class BankAccount {
         SavingsAccount a = new SavingsAccount();
 
         a.accNo = 1001;
-        a.name = "Ravi";
+        a.name = "Anjali";
         a.setBalance(5000);
 
         a.show();
