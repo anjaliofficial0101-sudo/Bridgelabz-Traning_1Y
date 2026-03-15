@@ -28,7 +28,7 @@ public class Student{
 		System.out.println("Grades: "+Grades());
 	}
 	public static void main(String[]args){
-		Student s1=new Student("Khushi",37,95);
+		Student s1=new Student("Anjali",15,95);
 		s1.displayDetail();
 	}
 }
