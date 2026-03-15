@@ -29,7 +29,7 @@ class CarRental {
     public static void main(String[] args) {
 
         CarRental r1 = new CarRental();
-        CarRental r2 = new CarRental("Akshara", "BMW", 3);
+        CarRental r2 = new CarRental("Anjali", "BMW", 3);
 
         r1.show();
         r2.show();
